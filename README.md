@@ -1,12 +1,3 @@
 # Fossils
 
-All of my new code is in fossils
-
-## Mirrors
-
-My code is located in one of these mirrors:
-
-https://fossils.risto.codes  
-https://gitlab.com/risto1/fossils  
-https://git.sr.ht/~risto/fossils  
-https://codeberg.org/risto/fossils
+This is archived in favor of hosting my own git via stagit + git-daemon + nginx, and using just plain `tar` to single-file repos.
